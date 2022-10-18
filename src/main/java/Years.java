@@ -28,6 +28,7 @@ public class Years {
         }
 
         System.out.println(year + ": is Not a leap year.");
+        System.out.println(year + ": double is Not a leap year.");
 
 
         return false;
